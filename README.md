@@ -17,14 +17,15 @@ You can click the Preview link to take a look at your changes.
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://img.favpng.com/6/9/23/logo-php-computer-icons-png-favpng-T20Y4CfJGrhd4geMuu9kdGSip.jpg">&nbsp;
+  <img width=50px src="(https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 </div>
 
 ## Tools:
 <div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-stdio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/ecli[
+](https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png)pse-11-logo-png-transparent.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
