@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://www.liblogo.com/img-logo/ph424p5c6-php-logo-php-logo-transparent-png-stickpng.png">&nbsp;
+  <img width=50px src="https://img.favpng.com/6/9/23/logo-php-computer-icons-png-favpng-T20Y4CfJGrhd4geMuu9kdGSip.jpg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 </div>
 
