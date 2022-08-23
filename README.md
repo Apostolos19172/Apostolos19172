@@ -23,9 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools:
 <div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-stdio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/ecli[
-](https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png)pse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://camo.githubusercontent.com/4f26079b534fd6be6b8bbcd0a50368b3d8fd6e25a1460833d038fc5c80be1dbb/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f65636c697073652d31312d6c6f676f2d706e672d7472616e73706172656e742e706e67">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
