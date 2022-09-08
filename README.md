@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Apostolos19172
-- 👀 I’m interested in software development
+- 👀 I’m interested in software engineering
+<!---
 - 🌱 I’m currently learning React
+--->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
